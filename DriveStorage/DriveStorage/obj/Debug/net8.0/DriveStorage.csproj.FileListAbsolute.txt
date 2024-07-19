@@ -1,0 +1,14 @@
+C:\Users\Ethan\Downloads\DriveStorage\DriveStorage\bin\Debug\net8.0\DriveStorage.exe
+C:\Users\Ethan\Downloads\DriveStorage\DriveStorage\bin\Debug\net8.0\DriveStorage.deps.json
+C:\Users\Ethan\Downloads\DriveStorage\DriveStorage\bin\Debug\net8.0\DriveStorage.runtimeconfig.json
+C:\Users\Ethan\Downloads\DriveStorage\DriveStorage\bin\Debug\net8.0\DriveStorage.dll
+C:\Users\Ethan\Downloads\DriveStorage\DriveStorage\bin\Debug\net8.0\DriveStorage.pdb
+C:\Users\Ethan\Downloads\DriveStorage\DriveStorage\obj\Debug\net8.0\DriveStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Downloads\DriveStorage\DriveStorage\obj\Debug\net8.0\DriveStorage.AssemblyInfoInputs.cache
+C:\Users\Ethan\Downloads\DriveStorage\DriveStorage\obj\Debug\net8.0\DriveStorage.AssemblyInfo.cs
+C:\Users\Ethan\Downloads\DriveStorage\DriveStorage\obj\Debug\net8.0\DriveStorage.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Downloads\DriveStorage\DriveStorage\obj\Debug\net8.0\DriveStorage.dll
+C:\Users\Ethan\Downloads\DriveStorage\DriveStorage\obj\Debug\net8.0\refint\DriveStorage.dll
+C:\Users\Ethan\Downloads\DriveStorage\DriveStorage\obj\Debug\net8.0\DriveStorage.pdb
+C:\Users\Ethan\Downloads\DriveStorage\DriveStorage\obj\Debug\net8.0\DriveStorage.genruntimeconfig.cache
+C:\Users\Ethan\Downloads\DriveStorage\DriveStorage\obj\Debug\net8.0\ref\DriveStorage.dll
